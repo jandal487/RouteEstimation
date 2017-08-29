@@ -1,0 +1,1 @@
+trippoint_id,location,point_timestamp,category,latitude,longitude,point_type,odometer,odomemter_diff,speed,bearing,altitude,is_privacy,gps_precision,inserttimestamp,corrected_timestamp,speed_limit,roadtype,trip_id
