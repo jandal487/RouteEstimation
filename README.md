@@ -50,13 +50,13 @@ repository functionality for merging. This is done on the web browser.
 ### Prerequisites
 In order to be able to use this project reporitory, the following R libraries 
 are required:
-* jsonlite,
-* devtools,
-* roxygen2,
+* RPostgreSQL,
+* sp
+* geosphere,
+* leaflet,
 * testthat,
 * R.rsp,
 * knitr.
-
 
 ### Unit testing
 To perform all available *Unit Tests* of the developed functions in the project, 
