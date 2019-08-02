@@ -1,5 +1,5 @@
 # Vehicle Route Estimation Using Telematics Data
-This project repository contains the R (Python code is in backup folder) implementation of the route estimation on dummy trip points dataset for learning purposes. The code showcases:
+This project repository contains the R (and Python code is in backup folder) implementation of the route estimation on dummy trip points dataset for learning purposes. The code showcases:
 
 1.  Read OpenStreetMaps data, stored in a Postgres database.
 2.  Read telematics trippoints data and plot them on the map, as shown in figure below.
