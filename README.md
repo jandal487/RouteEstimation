@@ -1,5 +1,5 @@
 # Vehicle Route Estimation Using Telematics Data
-This project repository contains the R and Python implementation of the route estimation on dummy dataset for learning purposes.
+This project repository contains the R (Python code is in backup folder) implementation of the route estimation on dummy dataset for learning purposes.
 
 
 ## Getting started
