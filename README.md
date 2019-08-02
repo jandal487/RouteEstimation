@@ -4,6 +4,7 @@ This project repository contains the R (Python code is in backup folder) impleme
 1.  Read OpenStreetMaps data, stored in a Postgres database.
 2.  Read telematics trippoints data and plot them on the map, as shown in figure below.
 3.  Estimate the most probable route that the drive will consider, connecting all of the trippoints
+
 ![Alt text](exmp_trippoints.jpg?raw=true? "Example Trippoints")
 
 
